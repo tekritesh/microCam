@@ -14,13 +14,13 @@ Version 2 of https://github.com/uw-x/insect-robot-cam
 
 ## F/W
 
-### HIMAX HM01B0
+#### HIMAX HM01B0
 | Tasks                   | Status            |
 | ----------------------- | ----------------- |
 | Driver for HM01B0 EVK   | &#9744; Done      |
 
 
-### BLE
+#### BLE
 | Tasks                       | Status            |
 | -----------------------     | ----------------- |
 | Driver for Peripheral Setup | &#9745; Done      |
@@ -30,22 +30,17 @@ Version 2 of https://github.com/uw-x/insect-robot-cam
 | BLE Settings Control        | &#9744; Todo      |
 | IMU Transmission            | &#9744; Todo      |
 
-### IMU
+#### IMU
 | Tasks                   | Status            |
 | ----------------------- | ----------------- |
 | Driver                  | &#9744; Todo      |
 
 
-### Power Management
+#### Power Management
 | Tasks                   | Status            |
 | ----------------------- | ----------------- |
-| Update Android for legacy App | &#9745; Done |
-| Tx Notifications Setup        | &#9745; Done |
-| Rx Notifications Setup        | &#9745; Done |
-| MTU(247) Negotiation          | &#9745; Done |
-| BLE Settings Control          | &#9744; Todo |
-| IMU Transmission              | &#9744; Todo |
-| Image Saving                  | &#9744; Todo |
+| Low Power Mode | &#9744; Todo |
+
 
 
 
@@ -53,7 +48,13 @@ Version 2 of https://github.com/uw-x/insect-robot-cam
 
 | Tasks                    | Status            |
 | -----------------------  | ----------------- |
-| Plotting a frame         | &#9745; Completed |
+| Update Android for legacy App | &#9745; Done |
+| Tx Notifications Setup        | &#9745; Done |
+| Rx Notifications Setup        | &#9745; Done |
+| MTU(247) Negotiation          | &#9745; Done |
+| BLE Settings Control          | &#9744; Todo |
+| IMU Transmission              | &#9744; Todo |
+| Image Saving                  | &#9744; Todo |
 
 
 
